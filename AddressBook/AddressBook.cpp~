@@ -1,8 +1,0 @@
-#include "AddressBook.h"
-
-void AddressBook::addFirst(string s){
-  
-  	FirstMap[s]
-
-         
-}

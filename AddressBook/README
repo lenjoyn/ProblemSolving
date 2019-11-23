@@ -1,0 +1,29 @@
+This task is not completed
+
+add & delete are implemented, but search needs some time to be done
+
+User interface is under construction, an interactive interface to choose action and parameters would be ideal
+
+First Name is taken as the primary referece (key) for the address book
+
+Email and Phone number should also be taken as available keys, which could be taken to use with First name, but the implementation will take time
+
+So they remained not implemented
+
+Unfinished Tasks:
+
+1. Phone number and Email implementation
+
+2. Search function
+
+3. User interactive interface
+
+
+To finish this program, it will take 2-3 more days 
+(this is a conservative estimation, if no serious bug or issue is found, 1-1.5 days would be more reasonable)
+
+
+Operation
+
+make
+./AddressBook
